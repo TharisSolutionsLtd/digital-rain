@@ -2,6 +2,8 @@
 
 This is a HTML canvas animation to produce a digital rain imaged based on the array of words provided. Each word is rotated as it is falling while leaving a smudge effect which gives depth to the image. The animation can run indefinately or it can stop when the end conditions are met, then a pop-up will contain an image of the paused animation.
 
+[EXAMPLE](http://jsbin.com/nosocodaka/3/edit?js,output)
+
 ## Setting it up
 
 There are a number of variables defined at the top of this script, the main ones are:
