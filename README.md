@@ -16,7 +16,7 @@ var words;
 var scoreThresholdPercentage;
 ```
 
-If you would need the animation running indefinately then set `var pauseOnEndCondition = true;`. If this is used to produce an image then set `var pauseOnEndCondition = false;`. When set to false, the code is waiting until the desired image score is hit before stopping and providing the image. The image dimensions are in pixels. To change the color of the text, get the hexidecimal value of your colour and update these variables:
+If you would need the animation running indefinately then set `var pauseOnEndCondition = false;`. If this is used to produce an image then set `var pauseOnEndCondition = true;`. When set to false, the code is waiting until the desired image score is hit before stopping and providing the image. The image dimensions are in pixels. To change the color of the text, get the hexidecimal value of your colour and update these variables:
 
 ``` javascript
 var rHex = '00';
