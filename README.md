@@ -1,4 +1,4 @@
-# Tharis Digital Rain
+# Digital Rain
 
 This is a HTML canvas animation to produce a digital rain imaged based on the array of words provided. Each word is rotated as it is falling while leaving a smudge effect which gives depth to the image. The animation can run indefinately or it can stop when the end conditions are met, then a pop-up will contain an image of the paused animation.
 
